@@ -1,0 +1,107 @@
+
+{
+  "main": {
+    "name": "Ronish Dudhat",
+    "occupation": "Frontend Developer",
+    "description": "I eat, sleep and breathe React",
+    "bio": "Hi there! I am Ronish! As a React developer, I specialize in building dynamic and responsive user interfaces using modern web technologies. While I’m still gaining experience, I’ve worked on several projects that have helped me enhance my skills in creating interactive and scalable applications.I’m passionate about learning and sharing knowledge with others who are starting their journey in web development. My focus is on teaching practical skills and real-world React concepts to help others build confidence and succeed in the tech industry. Together, let’s create amazing applications and grow as developers!",
+    "contactmessage": "Get in touch with me send a message.!",
+    "email": "ronishdudhat@gmail.com",
+    "phone": "+91 9978826608",
+    "address": {
+      "street": "",
+      "city": "surat",
+      "state": "Gujrat",
+      "zip": "394105"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1T0Z1nrUso8MtAf5TOg9mcQsmGg_C7vqR/view?usp=drive_link",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ronish-dudhat/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Roni2912",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "ITM (SLS) BARODA UNIVERSITY",
+        "degree": "Bachelor's Degree, Computer Science and engineering with Cyber Security",
+        "graduated": "May 2024",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "LIMBANI SOFTWARES",
+        "title": "React Developer",
+        "years": "AUG - Present",
+        "description": "Building innovative solutions every day, striving to recreate the best digital experiences. On a mission to deliver excellence and scale our impact globally!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "98%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      },
+      {
+        "name": "Node.js",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "Entertainment",
+        "image": "netflix.jpg",
+        "url": "https://netflix-clone-phi-six-79.vercel.app/"
+      },
+      {
+        "title": "YouTube Clone (React JS)",
+        "category": "Entertainment",
+        "image": "youtube.jpg",
+        "url": "https://you-tube-g1li.vercel.app/"
+      },
+      {
+        "title": "Memes Verse (React JS)",
+        "category": "Entertainment",
+        "image": "memes.png",
+        "url": "https://memes-verse.vercel.app/"
+      },
+      {
+        "title": "OCHI (React JS)",
+        "category": "Unique",
+        "image": "ochi.jpg",
+        "url": "https://ochi-ronishs-projects-311c7243.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "In a world full of code, be the syntax that stands out."
+      }
+    ]
+  }
+}
