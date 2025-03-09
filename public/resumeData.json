@@ -90,6 +90,12 @@
         "url": "https://memes-verse.vercel.app/"
       },
       {
+        "title": "Communion Hub (React JS)",
+        "category": "Connecting people",
+        "image": "memes.png",
+        "url": "https://communion-hub.vercel.app/"
+      },
+      {
         "title": "OCHI (React JS)",
         "category": "Unique",
         "image": "ochi.jpg",
