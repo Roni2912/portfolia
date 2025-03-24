@@ -2,8 +2,7 @@
 {
   "main": {
     "name": "Ronish Dudhat",
-    "occupation": "Frontend Developer",
-    "description": "I eat, sleep and breathe React",
+    "occupation": "Software Developer",
     "bio": "Hi there! I am Ronish! As a React developer, I specialize in building dynamic and responsive user interfaces using modern web technologies. While I’m still gaining experience, I’ve worked on several projects that have helped me enhance my skills in creating interactive and scalable applications.I’m passionate about learning and sharing knowledge with others who are starting their journey in web development. My focus is on teaching practical skills and real-world React concepts to help others build confidence and succeed in the tech industry. Together, let’s create amazing applications and grow as developers!",
     "contactmessage": "Get in touch with me send a message.!",
     "email": "ronishdudhat@gmail.com",
@@ -41,7 +40,7 @@
     "work": [
       {
         "company": "LIMBANI SOFTWARES",
-        "title": "React Developer",
+        "title": "Frontend Developer",
         "years": "AUG - Present",
         "description": "Building innovative solutions every day, striving to recreate the best digital experiences. On a mission to deliver excellence and scale our impact globally!"
       }
