@@ -3,7 +3,7 @@
   "main": {
     "name": "Ronish Dudhat",
     "occupation": "Software Developer",
-    "bio": "Hi there! I am Ronish! As a React developer, I specialize in building dynamic and responsive user interfaces using modern web technologies. While I’m still gaining experience, I’ve worked on several projects that have helped me enhance my skills in creating interactive and scalable applications.I’m passionate about learning and sharing knowledge with others who are starting their journey in web development. My focus is on teaching practical skills and real-world React concepts to help others build confidence and succeed in the tech industry. Together, let’s create amazing applications and grow as developers!",
+    "bio": "Hi there! I’m Ronish! As a software developer, I specialize in building dynamic, responsive, and scalable applications using modern technologies. While I’m still gaining experience, I’ve contributed to several projects that have sharpened my skills in both frontend and backend development. I’m passionate about continuous learning and enjoy sharing knowledge with others who are beginning their journey in tech. My focus is on teaching practical programming skills and real-world concepts to help others build confidence and thrive in the software industry. Let’s grow together and create impactful digital solutions!"
     "contactmessage": "Get in touch with me send a message.!",
     "email": "ronishdudhat@gmail.com",
     "phone": "+91 9978826608",
@@ -40,9 +40,15 @@
     "work": [
       {
         "company": "LIMBANI SOFTWARES",
-        "title": "Frontend Developer",
-        "years": "AUG - Present",
+        "title": "Frontend Developer (Part-Time)",
+        "years": "August 2024 – Present",
         "description": "Building innovative solutions every day, striving to recreate the best digital experiences. On a mission to deliver excellence and scale our impact globally!"
+      },
+       {
+        "company": "TRADING STUDIO",
+        "title": "Software Developer",
+        "years": "April 2025 - Present",
+        "description": "Developing scalable software systems and digital tools, contributing to global impact and excellence."
       }
     ],
     "skills": [
@@ -65,7 +71,7 @@
       {
         "name": "Git",
         "level": "90%"
-      }
+      },
     ]
   },
   "portfolio": {
