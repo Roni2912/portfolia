@@ -40,8 +40,8 @@
     "work": [
       {
         "company": "LIMBANI SOFTWARES",
-        "title": "Frontend Developer (Part-Time)",
-        "years": "August 2024 – Present",
+        "title": "Frontend Developer",
+        "years": "August 2024 – MAY 2025",
         "description": "Building innovative solutions every day, striving to recreate the best digital experiences. On a mission to deliver excellence and scale our impact globally!"
       },
        {
@@ -87,6 +87,12 @@
         "category": "Entertainment",
         "image": "youtube.jpg",
         "url": "https://you-tube-g1li.vercel.app/"
+      },
+      {
+        "title": "SOLANA TOKEN HUB (React JS)",
+        "category": "LEARNING",
+        "image": "solanaTokenHub.png",
+        "url": "solana-theta-seven.vercel.app"
       },
       {
         "title": "Memes Verse (React JS)",
